@@ -38,6 +38,8 @@ main {
     background-color: var(--color-white);
 
     border-radius: 0.5rem;
+
+    text-align: center;
 }
 
 .screen1 h1, .screen2 h2 {
